@@ -27,7 +27,7 @@
     - 4xx: Lỗi phía client
     - 5xx: Lỗi phía server
 4. Thực hành
-- [Xem video demo](/Users/apple/DevTYPTIT/typ-training-2025/nhathh_b23dvcn121_training_gd1/week_2/Screen Recording 2025-11-02 at 11.32.35 AM.mov)
+- [Xem video demo](https://drive.google.com/drive/u/0/folders/16MwiK9D1FeL8CPQtMPUlA3AIvA26jLMV)
 ## Phần 2: Tích hợp Database (ORM)
 1. Khái niệm ORM
 2. Sử dụng ORM theo Spring Boot
